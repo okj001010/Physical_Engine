@@ -14,4 +14,4 @@
 ![physical_engine_1](https://user-images.githubusercontent.com/42437315/190107301-c000e95e-97e5-413f-8155-23e59ccbfae3.png)
 
 ![physical_engine_2](https://user-images.githubusercontent.com/42437315/190107364-4136d449-26e7-4be2-b659-9b72516f8fa4.png)
-![physical_engine_2](https://user-images.githubusercontent.com/42437315/190107364-4136d449-26e7-4be2-b659-9b72516f8fa4.png)
+![physical_engine_3](https://user-images.githubusercontent.com/42437315/190108608-27aa84f3-6cdb-4d06-8a83-512980b83bc5.png)
